@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm JustQiyi</h1>
-<h3 align="center">A passionate Full-Stack Developer from 中国辽宁</h3>
+<h3 align="center">A passionate Full-Stack Developer from Liaoning, China</h3>
 
 <p align="center">
   <strong>Old name:</strong> MagicQiyi · <strong>Current names:</strong> JustQiyi / TulipQiyi · <strong>Chinese name:</strong> 柒屹
