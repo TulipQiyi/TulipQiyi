@@ -55,13 +55,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TulipQiyi&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TulipQiyi&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TulipQiyi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="./assets/bar_graph.png" alt="Bar Graph" />
 </p>
 
 ---
