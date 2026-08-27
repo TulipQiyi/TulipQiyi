@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm JustQiyi</h1>
+<h1 align="center">Hi there 👋, I'm Qiyi</h1>
 <h3 align="center">A passionate Full-Stack Developer from Liaoning, China</h3>
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 ## 📍 About Me
 - 🌱 I’m currently exploring advanced **Backend Architectures** and **Cloud Native** technologies.
-- 👯 I’m looking to collaborate on open-source **Java/C#** projects.
-- 💬 Ask me about **Java, C#, C, VB, JavaScript/TypeScript**.
+- 👯 I’m looking to collaborate on open-source **Java/C#/Rust** projects.
+- 💬 Ask me about **Java, C#, Rust, C, VB, JavaScript/TypeScript**.
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions.
 - 📫 How to reach me: **justqiyi@outlook.com**
 
@@ -82,5 +82,5 @@
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
   <br/>
-  <i>⭐️ From <a href="https://github.com/TulipQiyi">JustQiyi</a></i>
+  <i>⭐️ From <a href="https://github.com/TulipQiyi">Qiyi</a></i>
 </p>
