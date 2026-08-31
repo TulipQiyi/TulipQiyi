@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Qiyi</h1>
-<h3 align="center">A passionate Full-Stack Developer from Liaoning, China</h3>
+<h1 align="center">👋 Halo~! 我是柒屹</h1>
+<h3 align="center">一名来自中国辽宁的全栈开发者，热爱技术，乐于分享</h3>
 
 <p align="center">
-  <strong>Old name:</strong> <a href="https://github.com/MagicQiyi">MagicQiyi</a> · <strong>Current names:</strong> <a href="https://github.com/JustQiyi">JustQiyi</a> / TulipQiyi · <strong>Chinese name:</strong> 柒屹
+  <strong>曾用名：</strong> <a href="https://github.com/MagicQiyi">MagicQiyi</a> / <a href="https://github.com/JustQiyi">JustQiyi</a> · <strong>现用名：</strong> TulipQiyi · <strong>中文名：</strong> 柒屹
 </p>
 
 <p align="center">
@@ -16,16 +16,16 @@
 
 ---
 
-## 📍 About Me
-- 🌱 I’m currently exploring advanced **Backend Architectures** and **Cloud Native** technologies.
-- 👯 I’m looking to collaborate on open-source **Java/C#/Rust** projects.
-- 💬 Ask me about **Java, C#, Rust, C, VB, JavaScript/TypeScript**.
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions.
-- 📫 How to reach me: **justqiyi@outlook.com**
+## 📍 关于我
+- 🌱 目前正在深入学习 **后端架构设计** 与 **云原生** 技术。
+- 👯 期待参与 **Java / C# / Rust** 相关的开源项目，共同成长。
+- 💬 欢迎交流 **Java、C#、Rust、C、VB、JavaScript/TypeScript** 等技术话题。
+- ⚡ 趣事：喜欢把复杂的问题拆解为简洁优雅的解决方案。
+- 📫 联系我：**justqiyi@qq.com**
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ 技术栈与工具
 <p align="left"> 
   <!-- 后端核心 -->
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub 统计
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TulipQiyi&theme=radical" alt="GitHub Streak" />
 </p>
@@ -63,7 +63,7 @@
 
 ---
 
-## 🏆 Recent GitHub Activity
+## 🏆 近期 GitHub 动态
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=TulipQiyi&theme=react-dark&bg_color=20232a&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
@@ -72,7 +72,7 @@
 
 ---
 
-## 📫 Connect with me
+## 📫 联系我
 <p align="left">
   <a href="https://github.com/TulipQiyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="JustQiyi" height="30" width="40" /></a>
 </p>
@@ -80,7 +80,7 @@
 ---
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>期待与你相识，一起创造精彩！</i>
   <br/>
-  <i>⭐️ From <a href="https://github.com/TulipQiyi">Qiyi</a></i>
+  <i>⭐️ 来自 <a href="https://github.com/TulipQiyi">柒屹</a></i>
 </p>
