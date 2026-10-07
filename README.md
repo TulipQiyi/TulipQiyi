@@ -66,7 +66,7 @@
 ## 🏆 近期 GitHub 动态
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TulipQiyi&theme=react-dark&bg_color=20232a&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+    <img src="https://readme-activity-graph-nc2wmgqak-fabianocouto.vercel.app/graph?username=TulipQiyi&theme=react-dark&bg_color=20232a&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
   </a>
 </p>
 
